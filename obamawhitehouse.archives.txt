@@ -1,10 +1,3 @@
-(base) C:\Users\User\Desktop>python extract_pages.py
-Enter the website URL to extract all pages: https://obamawhitehouse.archives.gov/
-C:\Users\User\anaconda3\Lib\html\parser.py:171: XMLParsedAsHTMLWarning: It looks like you're parsing an XML document using an HTML parser. If this really is an HTML document (maybe it's XHTML?), you can ignore or filter this warning. If it's XML, you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the lxml package installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
-  k = self.parse_starttag(i)
-Error accessing https://obamawhitehouse.archives.gov/administration/eop/onap/nhas/vision: 404 Client Error: Not Found for url: https://obamawhitehouse.archives.gov/administration/eop/onap/nhas/vision
-Error accessing https://obamawhitehouse.archives.gov/champions/previous/diaspora-communities: 404 Client Error: Not Found for url: https://obamawhitehouse.archives.gov/champions/previous/diaspora-communities
-All pages found:
 https://obamawhitehouse.archives.gov/administration/eop/ceq/initiatives/nepa/nepa-pilot-project
 https://obamawhitehouse.archives.gov/share/share-news-our-economy-making-incredible-progress#content
 https://obamawhitehouse.archives.gov/photos-and-video/photogallery/january-2017-photo-day?page=5#footer-nav
