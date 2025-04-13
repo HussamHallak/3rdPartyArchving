@@ -1,12 +1,3 @@
-(base) C:\Users\User\Desktop>cd site_compare
-
-(base) C:\Users\User\Desktop\site_compare>python extract_pages.py
-Enter the website URL to extract all pages: https://restoredcdc.org/www.cdc.gov/
-Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
-Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
-Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
-Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
-All pages found:
 https://restoredcdc.org/www.cdc.gov/museum/online/story-of-cdc/legionnaires/#content
 https://restoredcdc.org/www.cdc.gov/about/speakers/index.html#cdc_generic_section_5-frequently-asked-questions
 https://restoredcdc.org/www.cdc.gov/budget/congressional-justification/index.html#cdc-search
@@ -4439,5 +4430,3 @@ https://restoredcdc.org/www.cdc.gov/museum/education/newsletter/2020/nov/index.h
 https://restoredcdc.org/www.cdc.gov/hand-foot-mouth/about/index.html#cdc-search
 https://restoredcdc.org/www.cdc.gov/oropouche/outbreaks/2024/index.html#languages
 https://restoredcdc.org/www.cdc.gov/museum/online/story-of-cdc/#nav-group-ad5ab
-
-(base) C:\Users\User\Desktop\site_compare>
